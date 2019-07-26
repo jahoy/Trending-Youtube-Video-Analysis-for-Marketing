@@ -1,5 +1,7 @@
 # Youtube Channel Recommendation for Influencer Marketing
 
+![youtubeimage](https://user-images.githubusercontent.com/50973416/61944234-2af4e500-afd8-11e9-8c69-bf5618898727.jpg)
+
 YouTube nowadays is the largest video hosting website, and it has profound influences on the U.S. This project can help marketing team to select youtube channel and influencer for marketing their business. *This project will provide business recommendations for them, including which channels have more business value and what people are concerning about now.*
 
 ## Objectives
