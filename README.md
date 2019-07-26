@@ -30,7 +30,7 @@ In order to get the data from youtube, I used a script, which is reference from 
 `Description`: description of the video     
 
 
-### Data Analysis Task 1: Most Valuable Category Selection
+## Data Analysis Task 1: Most Valuable Category Selection
 For this analysis, I aimed to find out the top valuable categories and select one of them to do further study. So, I decided to look at following four attributes by category to assess categories and developed a matrix:
 
 - `Number of trending videos`
@@ -39,7 +39,7 @@ For this analysis, I aimed to find out the top valuable categories and select on
 - `Average time interval(trending_date-publishedAt)`
 
 
-### Data Analysis Task 2: Top Hottest Channel Selection
+## Data Analysis Task 2: Top Hottest Channel Selection
 According to previous section, I would like to focus on `Entertainment`.
 I will evaluate the channels from these criteria:  
 + `Appearance Frequency`
@@ -48,7 +48,7 @@ I will evaluate the channels from these criteria:
 + `Sentiment Polarity`
 
 
-### Conclusion
+## Conclusion
 
 In my report, I develped two major evaluation matrixs to analyze the value of categories and channels on YouTube so as to help marketing team select channels that is worth to advertise or cooperate. Based on the YouTube data I scrapyed from March to May, I found that `entertainment` category is the most valuable category with the best overall performance. So, I digged into entertainment category, and my finding was that **Binging with Babish Channel** is the most favourable and hot channel in entertainment category. As a result, I would like to recommend *Binging with Babish channel* to marketing team, while I also recommend a controversial Channel, **MrBeast**, since it appears to has high attraction on people.
 
